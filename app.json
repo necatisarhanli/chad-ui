@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "chad-ui",
+    "slug": "chad-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "chad-ui"
+}
